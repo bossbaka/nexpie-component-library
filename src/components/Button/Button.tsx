@@ -16,7 +16,7 @@ export const Button = ({
   color = "#1F2937",
 }: ButtonProps): JSX.Element => {
   const buttonStyles = {
-    fontWeight: 700,
+    fontWeight: 500,
     padding: "10px 20px",
     border: 0,
     cursor: "pointer",
